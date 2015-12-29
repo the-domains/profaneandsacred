@@ -1,7 +1,7 @@
 name: ProfaneAndSacred
 favicon: null
-layout_spectrum: 0.7891437499783933
-typography_spectrum: 0.056102946400642395
+layout_spectrum: 0.91452
+typography_spectrum: 0.79851
 title: Profane and Sacred
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3125
+  brandStrength: 0.5625
   lightness: 0.4499713263940066
-  saturation: 0.28580515389330685
+  saturation: 0.625
   rhythmicContrast: 0.4962277659215033
 purpose: []
